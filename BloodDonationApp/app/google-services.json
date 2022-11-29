@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571556714412",
+    "project_id": "blooddonation-67493",
+    "storage_bucket": "blooddonation-67493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571556714412:android:ef4831ee21a8c3bb62cc09",
+        "android_client_info": {
+          "package_name": "my.foodon.blooddonationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571556714412-fski8utmnmssmh41qd44adu04hofqd7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVOBGxBlBHU8XoYE7RER3lXQO5o2PiL6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571556714412-fski8utmnmssmh41qd44adu04hofqd7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
